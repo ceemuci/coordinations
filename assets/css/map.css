@@ -17,6 +17,10 @@
     fill: #f5f7f6;
 }
 
+.first{
+    font-weight: bold;
+    font-size: 18px;
+}
 
 .map__list{
     float: right;
