@@ -6,15 +6,17 @@
 }
 
 .map__image .present1{
-    fill: orange;
+    /*fill: orange;*/
+    fill: blue;
 }
 
 .map__image .present2{
-    fill: rgb(40, 180, 27);
+    /*fill: rgb(40, 180, 27);*/
 }
 
 .map__image .nonpresent{
-    fill: #f5f7f6;
+    /*fill: #f5f7f6;*/
+    fill: blue;
 }
 
 .first{
