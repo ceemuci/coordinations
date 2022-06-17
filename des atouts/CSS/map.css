@@ -7,12 +7,12 @@
 
 .map__image .present1{
     /* fill: orange; */
-    fill: blue;
+    fill: red;
 }
 
 .map__image .present2{
     /* fill: rgb(40, 180, 27); */
-    fill: blue;
+    fill: red;
 }
 
 .map__image .nonpresent{
