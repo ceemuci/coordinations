@@ -1,4 +1,4 @@
-.map__image path{
+.map__image.map__image path{
     /* fill: #084415; */
     stroke: #FFF;
     /* stroke-width: 1px; */
@@ -6,17 +6,18 @@
 }
 
 .map__image .present1{
-    /*fill: orange;*/
+    /* fill: orange; */
     fill: blue;
 }
 
 .map__image .present2{
-    /*fill: rgb(40, 180, 27);*/
+    /* fill: rgb(40, 180, 27); */
+    fill: blue;
 }
 
 .map__image .nonpresent{
-    /*fill: #f5f7f6;*/
-    fill: blue;
+    fill: #f5f7f6;
+
 }
 
 .first{
